@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 8. </b> "
 ---
 
-# Risk Assessment
 
 ## Risk Matrix
 - **Internet connectivity loss**: Medium impact, medium probability

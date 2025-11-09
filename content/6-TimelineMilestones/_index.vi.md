@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-# Lộ trình & Mốc triển khai
 
 ## Thời lượng dự án
 **Thời lượng dự án**: 3 tháng (giai đoạn thực tập)

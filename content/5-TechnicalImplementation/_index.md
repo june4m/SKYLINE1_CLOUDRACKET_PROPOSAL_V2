@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 5. </b> "
 ---
 
-# Technical Implementation
+
 
 ## Implementation Phases
 The project consists of 4 main phases:

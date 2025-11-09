@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 5. </b> "
 ---
 
-# Triển khai kỹ thuật
+
 
 ## Các giai đoạn triển khai
 Dự án được chia thành 4 giai đoạn chính:

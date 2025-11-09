@@ -6,7 +6,6 @@ chapter: false
 pre: " <b> 8. </b> "
 ---
 
-# Đánh giá rủi ro
 
 ## Ma trận rủi ro
 - **Mất kết nối Internet**: Tác động trung bình, xác suất trung bình

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-# Solution Architecture
+
 
 The platform adopts an AWS Serverless architecture for stable operations, scalability, and cost efficiency.
 

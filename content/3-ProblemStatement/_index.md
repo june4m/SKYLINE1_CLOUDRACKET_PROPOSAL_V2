@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-# Problem Statement
+
 
 ## What's the Problem?
 Currently, finding and booking badminton courts mainly relies on manual contact methods (phone or social media). Booking schedules are not updated in real time, and users lack visibility on court coverage and distance estimation. Meanwhile, court owners face difficulties in managing and arranging court schedules as well as generating efficient revenue reports.

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-# Timeline & Milestones
+
 
 ## Project Timeline
 **Project Duration**: 3 months (Internship Period)

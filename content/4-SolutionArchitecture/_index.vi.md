@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-# Kiến trúc giải pháp
+
 
 Nền tảng áp dụng kiến trúc AWS Serverless giúp vận hành ổn định, dễ mở rộng và tiết kiệm chi phí. Dữ liệu về người dùng, sân và lịch đặt được lưu trữ trong Amazon DynamoDB. Giao tiếp giữa các thành phần thông qua Amazon API Gateway và các hàm AWS Lambda. Giao diện web và di động được triển khai bằng AWS Amplify, trong khi Amazon Cognito đảm bảo kiểm soát truy cập an toàn.
 

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-# Tuyên bố vấn đề
+
 
 ## Vấn đề hiện tại
 Việc tìm và đặt sân cầu lông hiện nay chủ yếu dựa vào liên hệ thủ công (số điện thoại hoặc mạng xã hội), lịch đặt sân không được cập nhật theo thời gian thực và thiếu độ phủ sóng của các sân làm gây trở ngại về ước tính quãng đường đến sân. Đồng thời, chủ sân gặp khó khăn trong việc quản lý, sắp xếp số lượng sân cũng như thống kê doanh thu không hiệu quả.
