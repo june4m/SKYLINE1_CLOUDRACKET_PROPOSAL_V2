@@ -2,6 +2,7 @@ baseURL = "https://june4th.github.io/SKYLINE1_CLOUDRACKET_PROPOSAL_V2/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
+enableMissingTranslationPlaceholders = false
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
@@ -26,6 +27,7 @@ home = [ "HTML", "RSS", "JSON"]
 title = "Proposal"
 weight = 1
 languageName = "English"
+contentDir = "content"
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group"
@@ -37,6 +39,7 @@ weight = 20
 title = "Bản đề xuất"
 weight = 2
 languageName = "Tiếng Việt"
+contentDir = "content"
 
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group"
