@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout source code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -24,11 +26,20 @@ jobs:
 
       - name: Build website
         run: hugo --minify
+        env:
+          HUGO_ENV: production
+
+      - name: Verify build output
+        run: |
+          ls -la public/
+          ls -la public/vi/ || echo "Vietnamese content not found"
+          ls -la public/en/ || echo "English content not found"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages # <- đảm bảo đúng tên nhánh bạn dùng để deploy
-          force_orphan: true # <- đảm bảo xóa lịch sử cũ ở nhánh gh-pages (giảm lỗi)
+          publish_branch: gh-pages
+          force_orphan: true
+          cname: false
