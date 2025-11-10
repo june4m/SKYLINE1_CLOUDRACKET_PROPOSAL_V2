@@ -13,7 +13,7 @@ Nền tảng áp dụng kiến trúc AWS Serverless giúp vận hành ổn đị
 Amazon Personalize gợi ý sân dựa trên lịch sử người dùng và Amazon Comprehend cân nhắc sân dựa trên bình luận và sao đánh giá, Custom Dashboard sẽ trực quan hóa dữ liệu hoạt động cho chủ sân và người dùng. Tất cả hoạt động được giám sát qua Amazon CloudWatch và tự động hóa bằng Amazon EventBridge.
 
 
-![Cloud Racket Platform Architecture](images/2-Proposal/Skyline1_CloudRacket.jpg)
+![Cloud Racket Platform Architecture](/static/images/2-Proposal/Skyline1_CloudRacket.jpg)
 
 ## Dịch vụ AWS sử dụng
 - **AWS Amplify Hosting**: Lưu trữ và triển khai ứng dụng web/mobile.
