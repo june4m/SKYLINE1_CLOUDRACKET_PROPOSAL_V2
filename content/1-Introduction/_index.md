@@ -16,7 +16,7 @@ The **Cloud Racket Platform** is an innovative AWS Serverless solution designed 
 
 Our dedicated team brings together expertise in software engineering and artificial intelligence to deliver a robust, scalable solution:
 
-**Development Leader**
+**Development Team**
 - **Nguyễn Công Minh - Leader** - SE182968
 - Email: minhncse182968@fpt.edu.vn
 - Phone: 0363401520
