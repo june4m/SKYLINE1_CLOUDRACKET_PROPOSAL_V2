@@ -1,6 +1,6 @@
 baseURL = "https://june4m.github.io/SKYLINE1_CLOUDRACKET_PROPOSAL_V2/"
-relativeURLs = false
-canonifyURLs = false
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo

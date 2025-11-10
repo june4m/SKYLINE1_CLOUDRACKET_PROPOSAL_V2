@@ -17,13 +17,13 @@ pre: " <b> 1. </b> "
 
 Nhóm chuyên dụng của chúng tôi kết hợp chuyên môn về kỹ thuật phần mềm và trí tuệ nhân tạo để cung cấp một giải pháp mạnh mẽ, có thể mở rộng:
 
-**Trưởng nhóm**
-- **Nguyễn Công Minh** - SE182968
+**Đội ngũ phát triển**
+- **Nguyễn Công Minh - Trưởng nhóm** - SE182968
 - Email: minhncse182968@fpt.edu.vn
 - Điện thoại: 0363401520
 - Vai trò: Phát triển Backend/Frontend 
 
-**Đội ngũ phát triển**
+
 - **Lê Hoàng Anh** - SE170327
 - Email: anhlhse170327@fpt.edu.vn  
 - Điện thoại: 0348663805
