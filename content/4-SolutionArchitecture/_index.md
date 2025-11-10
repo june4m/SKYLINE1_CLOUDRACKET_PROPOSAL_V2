@@ -17,7 +17,7 @@ Amazon Personalize recommends courts based on user history, and Amazon Comprehen
 All activities are monitored through Amazon CloudWatch and automated with Amazon EventBridge.
 
 
-![Cloud Racket Platform Architecture](\images\2-Proposal\Skyline1_CloudRacket.jpg)
+![Cloud Racket Platform Architecture](/images/2-Proposal/Skyline1_CloudRacket.jpg)
 
 ## AWS Services Used
 - **AWS Amplify Hosting**: Web/mobile hosting and deployment.
