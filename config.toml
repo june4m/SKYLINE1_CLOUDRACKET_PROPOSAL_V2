@@ -26,7 +26,6 @@ home = [ "HTML", "RSS", "JSON"]
 title = "Proposal"
 weight = 1
 languageName = "English"
-contentDir = "content"
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group"
@@ -38,7 +37,6 @@ weight = 20
 title = "Bản đề xuất"
 weight = 2
 languageName = "Tiếng Việt"
-contentDir = "content"
 
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group"
